@@ -1,0 +1,4 @@
+
+name = "raspakovshik-pro-api"
+main = "worker.js"
+compatibility_date = "2026-10-12"
